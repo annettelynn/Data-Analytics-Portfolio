@@ -1,4 +1,4 @@
-# Data Analytics Portfolio: Phuong Tran Thi Minh (Annette)
+# BI Dashboards: Phuong Tran Thi Minh (Annette)
 
 ## I. Introduction
 
