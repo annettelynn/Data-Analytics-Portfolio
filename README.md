@@ -2,7 +2,7 @@
 
 ## I. Introduction
 
-I am captivated by the potential of data analytics, a field that empowers me to unravel complex datasets and derive insights that shape strategic decisions. This fuels my commitment to crafting impactful projects. I am actively seeking collaboration opportunities with like-minded individuals or organisations to explore innovative analytics projects. I am also enthusiastic about embracing new learning opportunities to further refine my skills and broaden my impact in this dynamic domain. 
+I am captivated by the potential of data analytics, a field that empowers me to unravel complex datasets and derive insights to shape strategic decisions. I am actively seeking collaboration opportunities with like-minded individuals to explore analytics projects. I am also enthusiastic about embracing new learning opportunities to further refine my skills and broaden my impact in this domain. 
 
 ## II. My current projects
 
